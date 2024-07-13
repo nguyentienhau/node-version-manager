@@ -1,5 +1,9 @@
 # Node Version Manager
 
+## Installation File
+
+    nvm-setup.exe
+
 ## Version
 
     1.1.12
